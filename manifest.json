@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Itch Updates",
+    "version": "0.0a",
+    "description": "Itch extension",
+    "action": {},
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "scripting"]
+}
