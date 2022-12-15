@@ -1,0 +1,2 @@
+# Itch-Updates
+Itch extension
