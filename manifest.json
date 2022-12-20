@@ -3,6 +3,9 @@
     "name": "Itch Updates",
     "version": "0.0.0",
     "description": "Itch extension",
+    "icons": {
+        "129": "icons/129.png"
+    },
     "action": {},
     "background": {
         "service_worker": "background.js"
