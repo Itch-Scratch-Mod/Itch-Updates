@@ -10,6 +10,3 @@ chrome.action.setBadgeText({
 chrome.action.setBadgeBackgroundColor({
     color: "#786452",
 })
-chrome.action.setBadgeTextColor({
-    color: "#fff"
-})
