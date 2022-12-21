@@ -4,7 +4,7 @@
     --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-:root {
+body {
     background-color: var(--primary-color);
     color: var(--text-color);
     font-family: var(--font);
