@@ -4,7 +4,7 @@
     "version": "0.0.0",
     "description": "Itch extension",
     "icons": {
-        "129": "icons/129.png"
+        "108": "icons/108.png"
     },
     "action": {},
     "background": {
